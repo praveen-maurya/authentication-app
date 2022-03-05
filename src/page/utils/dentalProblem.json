@@ -1,0 +1,50 @@
+[
+    {
+      "value": "Toothache"
+    },
+    {
+      "value": "Stained Teeth"
+    },
+    {
+      "value": "Cavities"
+    },
+    {
+      "value": "Chipped Tooth"
+    },
+    {
+        "value": "Impacted Teeth"
+      },
+      {
+        "value": "Cracked Tooth"
+      },
+      {
+        "value": "Sensitive to Cold"
+      },
+      {
+        "value": "Too Many Teeth: Hyperdontia"
+      },
+      {
+        "value": "Crooked Teeth"
+      },
+      {
+        "value": "Gap Between Teeth"
+      },
+      {
+        "value": "Gum Problems"
+      },
+      {
+          "value": "Clenching or Grinding Your Teeth"
+        },
+        {
+          "value": "Wisdom Teeth Problems"
+        },
+        {
+          "value": "No Room to Floss"
+        },
+        {
+          "value": "Do Grills Cause Problems"
+        },
+        {
+          "value": "Others"
+        }
+  ]
